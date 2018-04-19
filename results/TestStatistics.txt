@@ -1,0 +1,47 @@
+Total test cases: 601
+Total correctly classified: 559
+Accuracy: 93.01%
+
+Misclassified output:
+.\TestSet\cardboard\cardboard143.jpg paper
+.\TestSet\cardboard\cardboard144.jpg paper
+.\TestSet\cardboard\cardboard150.jpg paper
+.\TestSet\cardboard\cardboard151.jpg paper
+.\TestSet\cardboard\cardboard153.jpg paper
+.\TestSet\cardboard\cardboard161.jpg paper
+.\TestSet\cardboard\cardboard162.jpg paper
+.\TestSet\cardboard\cardboard166.jpg plastic
+.\TestSet\cardboard\cardboard169.jpg paper
+.\TestSet\cardboard\cardboard190.jpg paper
+.\TestSet\cardboard\cardboard277.jpg paper
+.\TestSet\cardboard\cardboard33.jpg paper
+.\TestSet\cardboard\cardboard99.jpg paper
+.\TestSet\glass\glass175.jpg metal
+.\TestSet\glass\glass192.jpg metal
+.\TestSet\glass\glass209.jpg plastic
+.\TestSet\glass\glass294.jpg metal
+.\TestSet\glass\glass309.jpg metal
+.\TestSet\glass\glass32.jpg plastic
+.\TestSet\glass\glass462.jpg plastic
+.\TestSet\glass\glass463.jpg metal
+.\TestSet\glass\glass57.jpg paper
+.\TestSet\glass\glass63.jpg plastic
+.\TestSet\glass\glass74.jpg metal
+.\TestSet\glass\glass75.jpg plastic
+.\TestSet\glass\glass76.jpg metal
+.\TestSet\metal\metal97.jpg glass
+.\TestSet\paper\paper258.jpg cardboard
+.\TestSet\paper\paper343.jpg cardboard
+.\TestSet\paper\paper462.jpg cardboard
+.\TestSet\paper\paper469.jpg metal
+.\TestSet\paper\paper491.jpg cardboard
+.\TestSet\plastic\plastic190.jpg glass
+.\TestSet\plastic\plastic216.jpg glass
+.\TestSet\plastic\plastic232.jpg metal
+.\TestSet\plastic\plastic364.jpg paper
+.\TestSet\plastic\plastic432.jpg glass
+.\TestSet\plastic\plastic441.jpg glass
+.\TestSet\plastic\plastic443.jpg glass
+.\TestSet\plastic\plastic469.jpg glass
+.\TestSet\plastic\plastic473.jpg glass
+.\TestSet\plastic\plastic84.jpg metal
